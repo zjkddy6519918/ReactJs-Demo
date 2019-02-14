@@ -1,0 +1,29 @@
+{
+  "name": "webstorm-react",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "antd": "^3.9.2",
+    "axios": "^0.18.0",
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "firebase": "^5.5.1",
+    "history": "^4.7.2",
+    "moment": "latest",
+    "nodemailer": "^4.6.8",
+    "prop-types": "^15.6.2",
+    "react": "^16.5.0",
+    "react-dom": "^16.5.0",
+    "react-router": "latest",
+    "react-router-dom": "^4.3.1",
+    "react-scripts": "1.1.5",
+    "underscore": "^1.9.1"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject",
+    "server": "node server/server.js"
+  }
+}

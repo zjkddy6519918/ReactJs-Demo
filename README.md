@@ -1,3 +1,13 @@
-# ReactJs
-This is a simple shipment management website based on ReactJs.<br>
-To start the server, open the shell, enter the root direcrtory of the project, and then type "npm start".
+# SWEN90016 Assignment 2 by RED Team
+
+## System requirements
+- `Node`
+- `NPM`
+
+## How to run the app
+1. Open a terminal and go to this project directory  
+2. `npm install`
+3. You need to run the server by doing `npm run server`
+4. Open another terminal and go to this project directory
+5. `npm start`
+6. The app will appear on your browser at `localhost:3000` by default
