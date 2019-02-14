@@ -1,4 +1,4 @@
-# SWEN90016 Assignment 2 by RED Team
+# Shipment Management Website
 
 ## System requirements
 - `Node`
